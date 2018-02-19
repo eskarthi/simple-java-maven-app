@@ -5,4 +5,3 @@ runPipeline {
     serverDomain = "Project1 Server Domain"
     user = "Karthik"
 }
-
