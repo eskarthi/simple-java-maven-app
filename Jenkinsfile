@@ -1,6 +1,6 @@
 @Library('javapipeline-helpers') _
 
-runPipeline {
+runpipeline {
     projectName = "Simple-Java-maven-app"
     serverDomain = "Project1 Server Domain"
     user = "Karthik"
